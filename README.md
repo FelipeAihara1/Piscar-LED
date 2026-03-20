@@ -1,2 +1,2 @@
-# Piscar-LED
-Códigos de piscar LEDs
+# Semáforo
+Simular um semáforo com LEDs
